@@ -7,13 +7,13 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 💌 CARI AJA DIBAWAH INI
 
 📮 YOU TUBE :
-youtube.com/c/hokenbeusz
+youtube.com/c/Khairil🅥
 
 📮 GITHUB :
-github.com/krizynofc/forynfour-MDV1
+github.com/KhairilOFC
 
 📮 JANGAN LUPA MAMPIR :
-https://lynk.id/kri.com`
+https://.com`
 
 await conn.sendBut(m.chat, esce, '📮 DONT FORGET TO FOLLOW MY ACCOUNT', 'Thanks', '.menu', m) 
 }
